@@ -1,0 +1,22 @@
+{
+  "name": "day6",
+  "version": "1.0.0",
+  "description": "Week 2 labs for Boca Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennisGShea/Week02_Labs.git"
+  },
+  "author": "DennisGShea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennisGShea/Week02_Labs/issues"
+  },
+  "homepage": "https://github.com/DennisGShea/Week02_Labs#readme",
+  "dependencies": {
+    "firebase-admin": "^9.4.2"
+  }
+}
